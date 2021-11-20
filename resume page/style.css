@@ -11,6 +11,7 @@ body {
 .designation {
   padding:8px;
   font-weight: 500;
+  Font-size:18px;
 }
 
 img {
@@ -99,6 +100,7 @@ img {
 .experience {
   padding:5px;
   margin-top:20px;
+  font-size:18px;
 }
 .sub-content {
   color: white;
