@@ -100,18 +100,17 @@ img {
   padding:5px;
   margin-top:20px;
 }
-.sub-content button {
-    color: white;
-    font-weight: bold;
-    background: rgb(55, 123, 253);
-    border: none;
-    font-size: 14px;
-    cursor: pointer;
-    margin: 0px;
-    padding-top:30px;
-    border-radius: 10px;
-    padding: 16px 12px;
-    margin-right: 40%;
+.sub-content {
+  color: white;
+  font-weight: bold;
+  background: rgb(55, 123, 253);
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+  margin-top: 50px;
+  border-radius: 10px;
+  padding: 16px 25px;
+  margin-right: 40%;
 }
 
 .date-margin {
